@@ -1,4 +1,6 @@
 import React from "react";
+import ButtonPrimary from '../../misc/ButtonPrimary';
+
 
 const ButtonOutline = ({ children }) => {
   return (
