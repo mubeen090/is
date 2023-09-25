@@ -5,10 +5,12 @@ import getScrollAnimation from "../utils/getScrollAnimation";
 import ScrollAnimationWrapper from "./Layout/ScrollAnimationWrapper";
 
 const features = [
-  "Powerfull online protection.",
-  "Internet without borders.",
-  "Supercharged VPN",
-  "No specific time limits.",
+  "LIVE+RECORDED SESSIONS ",
+  "INTERNSHIPS ",
+  "3+ CERTIFICATES ",
+  "4,MINI,4 MAJOR PROJECTS",
+  "15+ MOCK INTERVIEWS",
+  "PLACEMENT ASSISTANCE",
 ];
 
 const Feature = () => {
@@ -41,8 +43,7 @@ const Feature = () => {
               We Provide Many Features You Can Use
             </h3>
             <p className="my-2 text-black-500">
-              You can explore the features that we provide with fun and have
-              their own functions each feature.
+              You can explore the features that we provide with fun
             </p>
             <ul className="text-black-500 self-start list-inside ml-8">
               {features.map((feature, index) => (
@@ -87,8 +88,7 @@ const Feature = () => {
               We Provide Many Features You Can Use
             </h3>
             <p className="my-2 text-black-500">
-              You can explore the features that we provide with fun and have
-              their own functions each feature.
+              You can explore the features that we provide with fun
             </p>
             <ul className="text-black-500 self-start list-inside ml-8">
               {features.map((feature, index) => (

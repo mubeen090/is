@@ -57,13 +57,13 @@ const Pricing = () => {
                 </p>
                 <ul className="flex flex-col list-inside pl-6 xl:pl-0 items-start justify-start text-left text-black-500 flex-grow">
                   <li className="relative check custom-list my-2">
-                    Demo sessions 
+                    Demo Sessions
                   </li>
                   <li className="relative check custom-list my-2">
                     Encrypted Connection
                   </li>
                   <li className="relative check custom-list my-2">
-                    APP BASED LEARNING 
+                    App Based Learning
                   </li>
                   <li className="relative check custom-list my-2">
                     Works on All Devices
@@ -106,13 +106,13 @@ const Pricing = () => {
                     150+ LIVE,RECORDED SESSIONS
                   </li>
                   <li className="relative check custom-list my-2">
-                    4 MINI ,4 MAJOR PROJECTS 
+                    4 MINI ,4 MAJOR PROJECTS
                   </li>
                   <li className="relative check custom-list my-2">
-                    INTERNSHIP COMPLEATION CERTIFICATE 
+                    INTERNSHIP COMPLEATION CERTIFICATE
                   </li>
                   <li className="relative check custom-list my-2">
-                    PLACEMENT ASSISTANCE 
+                    PLACEMENT ASSISTANCE
                   </li>
                   <li className="relative check custom-list my-2">
                     APP BASED LEARNING{" "}
@@ -158,10 +158,10 @@ const Pricing = () => {
                     4 MINI,4 MAJOR PROJECTS
                   </li>
                   <li className="relative check custom-list my-2">
-                    INTERNSHIP COMPLEATION CERTIFICATES 
+                    INTERNSHIP COMPLEATION CERTIFICATES
                   </li>
                   <li className="relative check custom-list my-2">
-                    PLACEMENT ASSURENCE 
+                    PLACEMENT ASSURENCE
                   </li>
                   <li className="relative check custom-list my-2">
                     APP BASED LEARNING{" "}
